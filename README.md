@@ -9,6 +9,9 @@
  - ⚡ Fun fact "Time is the way to your destiny".
 
 
+ <p align="center"> <img src="img/programming.gif" /> </p>
+
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juandiegoquinterocampus" alt="juandiegoquinterocampus" /></a> </p>
 
 <h3 align="center">Connect with me:</h3>
