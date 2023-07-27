@@ -2,17 +2,19 @@
 <h3 align="center">A passionate Back-end developer from Colombia</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=juandiegoquinterocampus&label=Profile%20views&color=0e75b6&style=flat" alt="juandiegoquinterocampus" /> </p>
+<br>
+<p align="center">
+ - 🔭 I’m currently studing on Campuslands.<br>
+ - 🌱 I’m currently learning Node.js<br>
+ - ⚡ Fun fact "Time is the way to your destiny". <br>
+  </p>
 
-
- - 🔭 I’m currently studing on Campuslands.
- - 🌱 I’m currently learning Node.js
- - ⚡ Fun fact "Time is the way to your destiny".
-
-
+<br>
  <p align="center"> <img src="img/programming.gif" /> </p>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juandiegoquinterocampus" alt="juandiegoquinterocampus" /></a> </p>
+
+<p align="left" class="a"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juandiegoquinterocampus" alt="juandiegoquinterocampus" /></a> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
